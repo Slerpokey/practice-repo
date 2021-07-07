@@ -1,6 +1,6 @@
 ## Carlos Burton
 
-### Summer 2021 
+### Fall 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
@@ -8,9 +8,6 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Pre-Calculus
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
