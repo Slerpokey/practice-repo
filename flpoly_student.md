@@ -4,6 +4,11 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
+## Courses
+**COP**
+**2073**
+*Introduction to Data Science*
+
 - Data Science
 
 - Pre-Calculus
